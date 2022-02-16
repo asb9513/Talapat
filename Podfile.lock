@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (4.10.1)
+  - SKActivityIndicatorView (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - Kingfisher (~> 4.0)
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+
+PODFILE CHECKSUM: 31f82ac8fac5d761efd8416785277d9a6bf390f2
+
+COCOAPODS: 1.11.2
